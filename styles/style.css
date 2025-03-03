@@ -172,4 +172,8 @@ body {
     .apresentacao__imagem {
         width: 100%;
     }
+
+    .rodape {
+        font-size: 1rem;
+    }
 }

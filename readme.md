@@ -14,6 +14,10 @@ Este repositório contém o material de um projeto realizado em quatro cursos of
 - Criação de cabeçalho e footer com variáveis CSS
 - Técnicas de responsividade e publicação de projetos
 
+## Linguagens utilizadas
+- HTML
+- CSS
+
 ## Estrutura do Projeto
 
 - `index.html`: Arquivo principal do projeto contendo a estrutura HTML.
@@ -30,3 +34,6 @@ Este repositório contém o material de um projeto realizado em quatro cursos of
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests. 
+
+## Desenvolvimento
+Elai Emylle Matos de Lima
