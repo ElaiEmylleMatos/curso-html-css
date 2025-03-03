@@ -139,15 +139,15 @@ body {
         flex-direction: column-reverse;
         gap: 40px;
         padding: 5%;
+        text-align: center;
     }
 
     .apresentacao__conteudo {
         width: auto;
     }
 
-    /*
     .apresentacao__conteudo__titulo {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
 
     .apresentacao__conteudo__texto {
@@ -159,10 +159,17 @@ body {
     }
 
     .apresentacao__links__navegacao {
-        width: 100%;
+        width: 75%;
+        font-size: 1rem;
+        place-items: center;
+    }
+
+    .apresentacao__links__subtitulo {
+        text-align: center;
+        font-size: 1.25rem;
     }
 
     .apresentacao__imagem {
         width: 100%;
-    }*/
+    }
 }
